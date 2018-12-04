@@ -1,4 +1,4 @@
-/**
+/***
  *  MyEcobeeInit (Service Manager)
  *  Copyright 2016 Yves Racine
  *  LinkedIn profile: www.linkedin.com/in/yracine
